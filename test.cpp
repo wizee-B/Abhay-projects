@@ -17,7 +17,7 @@ int main(){
         for(int j=0;j<n;j++){
             cout<<A[j][i]<<" ";
             }i++;
-        if(i<n){
+        if(i<m){
             for(int j=n-1;j>=0;j--){
             cout<<A[j][i]<<" ";
             }
